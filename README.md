@@ -3,6 +3,7 @@ Study project: personal website (résumé).
 
 # Authors
 [Binary Studio Academy 2020](https://www.binary-studio.com)
+
 [Oleksiy Chuguyenko](https://github.com/AleksGF/)
 
 # License
